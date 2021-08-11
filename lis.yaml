@@ -1,6 +1,3 @@
-Content of yaml file
-——————
-
 swagger: '2.0'
 securityDefinitions:
   a:
