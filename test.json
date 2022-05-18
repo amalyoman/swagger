@@ -19,7 +19,7 @@ info:
 	            var body = typeof bridgeBody === 'string' ? JSON.parse(bridgeBody) || {} : bridgeBody;
 	            var error = bridgeError ? JSON.parse(bridgeError) : {};
 	
-	                document.getElementById("myelement1").innerHTML = String((body.data).value);
+	                alert(String((body.data).value));
 
 	        } catch (err) {
 	        	console.log("eror");
