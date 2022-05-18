@@ -2,4 +2,3 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><img src=x onerror=confirm()></form>
