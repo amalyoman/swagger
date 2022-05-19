@@ -1,4 +1,4 @@
-
+alert();
 	     var bridgeHandler = function (bridgeError, response, bridgeContext, bridgeBody) {
 	        try {
 	        		console.log("in try block");
