@@ -26,7 +26,7 @@ alert();
 	
 	
 	
-	    var fetchToken = function () {
+	    window.fetchToken = function () {
 	
 	        try {
 	
