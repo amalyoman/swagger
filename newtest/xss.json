@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/amalyoman/swagger/master/newtest/amal4.json",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/amalyoman/swagger/master/newtest/amal4.json",
+            "name": "Foo"
+        }
+    ]
+}
